@@ -1,1 +1,1 @@
-local branch bad commit
+local branch
